@@ -1,6 +1,6 @@
 # TinyWebDB-PHP
-**TinyWebDB System written in PHP**, compatible with Apache & PHP
-**This project only support HTTP, please do not use HTTPS (SSL) !
+**TinyWebDB System written in PHP**, compatible with Apache & PHP <br>
+**This project only support HTTP, please do not use HTTPS (SSL) !**
 
 ---
 ---
