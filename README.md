@@ -1,6 +1,9 @@
 # HyWebDB
-**TinyWebDB System written in PHP**, compatible with Apache & PHP <br>
-**This project only support HTTP, please do not use HTTPS (SSL) !**
+**Hybro Web DataBase written in PHP**, compatible with Apache & PHP <br>
+
+***Our HyWebDB DataBase :
+Main DataBase : https://webdb.hybro.io
+DataBase 2 (Without SSL) : http://tinywebdb.hybrostud.io ***
 
 ---
 ---
