@@ -110,8 +110,9 @@ After this, hit <kbd>Ctrl</kbd>+<kbd>X</kbd>, <kbd>Y</kbd> and <kbd>Enter</kbd>
 
 2. **Enjoy your own TinyWebDB Service!** :tada:
 
-###  ***You may also run this on Github Page***
-Here is our github version : https://hybrostudio.github.io/HyWebDB/
+###  ***Can you run this on Github Page ?***
+No, you can't ! You can load the index page, but the service will NOT run !
+Here is an example : https://hybrostudio.github.io/HyWebDB/
 
 ###  ***About this Project***
 This project is orginally created by Makeroid under MIT License. <br>
