@@ -108,3 +108,7 @@ After this, hit <kbd>Ctrl</kbd>+<kbd>X</kbd>, <kbd>Y</kbd> and <kbd>Enter</kbd>
 ![image|201x59](https://community.makeroid.io/uploads/default/original/2X/7/7308edf0b88c0da6044743a4703e25d01380c403.png)
 
 2. **Enjoy your own TinyWebDB Service!** :tada:
+
+### 2. About this Project
+This project is forked from Makeroid and it is orginally from MIT App Inventor 2 under MIT License
+You can Reuse, Commercial use, Modify, Distribute or Private use under MIT License !
