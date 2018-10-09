@@ -3,7 +3,7 @@
 
 ***Our HyWebDB DataBase : <br>
 Main DataBase : https://webdb.hybro.io <br>
-DataBase 2 (Without SSL) : http://tinywebdb.hybrostud.io <br> ***
+DataBase 2 (Without SSL) : http://tinywebdb.hybrostud.io <br>***
 
 ---
 ---
