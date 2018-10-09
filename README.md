@@ -12,7 +12,7 @@ The tutorial is divided in **4 different sections**:
 1. [Signup into a hosting service](#1-signup-into-a-hosting-service)
 2. [Uploading the files](#2-uploading-the-files)
 3. [Configuration](#3-configuration)
-4. [Hybro Studio setup](#4-Hybro Studio setup)
+4. [Hybro Studio setup](#4-Hybro-Studio-setup)
 
 ---
 
