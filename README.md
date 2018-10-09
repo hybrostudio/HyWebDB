@@ -12,7 +12,7 @@ The tutorial is divided in **4 different sections**:
 1. [Signup into a hosting service](#1-signup-into-a-hosting-service)
 2. [Uploading the files](#2-uploading-the-files)
 3. [Configuration](#3-configuration)
-4. [Makeroid Builder setup](#4-makeroid-builder-setup)
+4. [Hybro Studio setup](#4-Hybro Studio setup)
 
 ---
 
@@ -102,7 +102,7 @@ After this, hit <kbd>Ctrl</kbd>+<kbd>X</kbd>, <kbd>Y</kbd> and <kbd>Enter</kbd>
 
 &nbsp;
 
-### 4. Makeroid Builder setup
+### 4. Hybro Studio setup
 
 1. In all **TinyWebDB Components**, you need to change in **Properties** the **Service URL** to _the URL of your service_ or _the IP of your VPS_. In my case, it is `http://tinywebdb-php.epizy.com`
 ![image|201x59](https://community.makeroid.io/uploads/default/original/2X/7/7308edf0b88c0da6044743a4703e25d01380c403.png)
