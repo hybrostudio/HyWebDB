@@ -6,7 +6,7 @@
 ---
 
 # How to host your own TinyWebDB Instance
-This tutorial will help you to host your **own TinyWebDB Instance** for FREE using an alternative [**PHP** version](https://github.com/Makeroid/TinyWebDB-PHP)
+This tutorial will help you to host your **own TinyWebDB Instance** for FREE
 This means that you can use _any hosting provider_ or a _VPS with a running Apache & PHP server_
 
 The tutorial is divided in **4 different sections**:
