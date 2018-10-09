@@ -1,9 +1,9 @@
 # HyWebDB
 **Hybro Web DataBase written in PHP**, compatible with Apache & PHP <br>
 
-***Our HyWebDB DataBase :
-Main DataBase : https://webdb.hybro.io
-DataBase 2 (Without SSL) : http://tinywebdb.hybrostud.io ***
+***Our HyWebDB DataBase : <br>
+Main DataBase : https://webdb.hybro.io <br>
+DataBase 2 (Without SSL) : http://tinywebdb.hybrostud.io <br> ***
 
 ---
 ---
