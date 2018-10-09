@@ -52,10 +52,12 @@ Hit "_OK_" and _configuration will be done for hosting providers_
 
 ### 4. Hybro Studio setup
 
-1. In all **TinyWebDB Components**, you need to change in **Properties** the **Service URL** to _the URL of your service_ or _the IP of your VPS_. In my case, it is `http://tinywebdb-php.epizy.com`
+1. Open your project in Hybro Studio, drag a HyWebDB Component to your project, then go to the **Properties** of the HyWebDB Component
+
+2. Now, in the **Service URL**, Type the URL of Your Own HyWebDB (The domain/subdomain that you upload the source code) <br>
 ![image|201x59](https://community.makeroid.io/uploads/default/original/2X/7/7308edf0b88c0da6044743a4703e25d01380c403.png)
 
-2. **Enjoy your own TinyWebDB Service!** :tada:
+2. **Enjoy your own HyWebDB Service!** :tada:
 
 ###  ***Can you run this on Github Page ?***
 No, you can't ! You can load the index page, but the service will NOT run !
