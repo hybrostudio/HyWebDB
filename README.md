@@ -65,5 +65,5 @@ Here is an example : https://hybrostudio.github.io/HyWebDB/
 
 ###  ***About this Project***
 This project is orginally created by Makeroid under MIT License. <br>
-You can Reuse, Commercial use, Modify, Distribute or Private use under MIT License !
+You can Reuse, Commercial use, Modify, Distribute or Private use under MIT License ! <br>
 For more information, please read this post : https://community.hybro.io/d/11-hywebdb-the-web-db-for-hybro-services !
